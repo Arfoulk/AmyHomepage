@@ -1,0 +1,15 @@
+ol {
+	background-color: purple;
+}
+
+
+body {
+	background-image: url("https://us.123rf.com/450wm/milkos/milkos1601/milkos160100096/50614809-idyllic-calm-sea-horizon-nature-landscape-wallpaper-with-seagulls-on-the-water-evening-in-pastel-blu.jpg?ver=6");
+
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 0px;
+	margin: 0px;
+}
+ 
